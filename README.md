@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Kanishk Singh   
+# 👋 Hi there, This is Kanishk Singh   
 🔐 **Cybersecurity | Artificial Intelligence | Privacy | Digital Responsibility**
 
 ---
